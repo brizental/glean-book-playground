@@ -1,0 +1,10 @@
+[book]
+authors = ["brizental"]
+language = "en"
+multilingual = false
+src = "src"
+title = "The Glean Book"
+
+[output.html]
+additional-css = ["assets/glean.css"]
+additional-js = ["assets/tabs.js"]

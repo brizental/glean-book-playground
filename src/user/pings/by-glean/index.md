@@ -1,0 +1,1 @@
+# Pings sent by Glean
