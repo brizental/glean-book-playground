@@ -1,6 +1,6 @@
 # How to run
 ```bash
-crago install mdbook
+cargo install mdbook
 mdbook serve
 ```
 
